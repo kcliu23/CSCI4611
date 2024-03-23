@@ -1,0 +1,20 @@
+[submodule "assignment-1-kcliu23"]
+    path = assignment-1-kcliu23
+    url = https://github.com/CSCI-4611-Fall-2023/assignment-1-kcliu23.git
+[submodule "assignment-2-kcliu23"]
+    path = assignment-2-kcliu23
+    url = https://github.com/CSCI-4611-Fall-2023/assignment-2-kcliu23.git
+[submodule "assignment-3-kcliu23"]
+    path = assignment-3-kcliu23
+    url = https://github.com/CSCI-4611-Fall-2023/assignment-3-kcliu23.git
+[submodule "assignment-4-kcliu23"]
+    path = assignment-4-kcliu23
+    url = https://github.com/CSCI-4611-Fall-2023/assignment-4-kcliu23.git
+[submodule "assignment-5-kcliu23"]
+    path = assignment-5-kcliu23
+    url = https://github.com/CSCI-4611-Fall-2023/assignment-5-kcliu23.git
+[submodule "assignment-6-kcliu23"]
+    path = assignment-6-kcliu23
+    url = https://github.com/CSCI-4611-Fall-2023/assignment-6-kcliu23.git
+
+
